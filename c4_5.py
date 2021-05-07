@@ -144,7 +144,7 @@ def getScore(realCls, textCls):
 
 
 if __name__ == '__main__':
-    filename = r'data\0205data.xlsx'
+    filename = r'data\data.xlsx'
     testfile = r'data\data_tra.xlsx'
     predictfile = r'data\data_pre.xlsx'
     c_label = "class"
